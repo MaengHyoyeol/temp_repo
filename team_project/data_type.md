@@ -40,5 +40,7 @@ applymap 은 dataframe 안에 모든 element 에 함수를 적용하여 준다.
 
 
 </code>
+
 ![](c/../capture/type.PNG)
+
 > Written with [StackEdit](https://stackedit.io/).
