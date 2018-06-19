@@ -1,5 +1,7 @@
 ﻿# DataFrame Reshaping
 
+이 포스트는 [nikgrozev](http://nikgrozev.com/) pivot 포스팅을 정리한 것이며 허락을 받고 인용하였습니다.
+
 ## pivot
 
 The [pivot](http://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.pivot.html) function is used to create a new derived table out of a given one. Pivot takes 3 arguements with the following names: index, columns, and values. 
